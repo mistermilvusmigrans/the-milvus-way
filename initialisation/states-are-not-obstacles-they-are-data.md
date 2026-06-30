@@ -1,7 +1,5 @@
 <h1>States Are Not Obstacles - They Are Data</h1>
 
-***Each psychological and physiological state has its own epistemic texture***
-
 > **Key context**: [the-apparatus-logistics-of-the-knowing-self.md](./the-apparatus-logistics-of-the-knowing-self.md)
 
 ---
