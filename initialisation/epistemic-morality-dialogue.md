@@ -1,6 +1,6 @@
 <h1>Morality as Epistemic Contact:<br><i>A Socratic Dialogue</i></h1>
 
-> This dialogue was produced from a chat between myself and AI (Claude Sonnet 4.6), with me proposing the key ideas and paradigms, and AI extending these into its implications and synthesising conclusions. I asked AI to convert the chat's contents into a Socratic dialogue, which led to the following. This dialogue merely serves as the raw material, material which I have myself reviewed and validated.
+> This dialogue was produced from a chat between myself and AI (Claude Sonnet 4.6), with me proposing the key ideas and paradigms, and AI extending these into its implications and synthesising conclusions. I asked AI to convert the chat's contents into a Socratic dialogue, which led to the following. This document merely serves as the raw material, material which I have myself reviewed and validated.
 
 ---
 
