@@ -27,5 +27,8 @@ Built directly on the axiom of choice (no terminal value beyond correspondence; 
 # Domain of validity
 Tested specifically on interactions involving other sapient minds, where the further working-results under ["II. Cruelty, Contact, and Their Limits", README.md](./README.md#ii-cruelty-contact-and-their-limits) apply and substantially narrow the practical license this working-result grants in the abstract. This has not yet tested on self-directed harshness, which was explicitly flagged as needing its own derivation rather than importing this one unmodified.
 
+# Self-application pass
+**Checked against**: The baseline obligation ([initialisation/the-baseline-obligation.md](../initialisation/the-baseline-obligation.md)): if other minds have genuine interiority and missing it is an epistemic failure, an actor's recoil at causing harm to that interiority is a plausible channel for exactly the fact the baseline obligation says matters. The current statement of this working-result reflects this rather than excluding it.
+
 # Open edges
 Whether recoil, in any given instance, is tracking something real about the target's interiority or is inert conditioning with nothing underneath it has not been given a general answer, and the working-result does not attempt one - only the procedure for asking is fixed, not the outcome. This has also not yet been tested on self-directed harshness, which was explicitly flagged as needing its own derivation rather than importing this one unmodified.

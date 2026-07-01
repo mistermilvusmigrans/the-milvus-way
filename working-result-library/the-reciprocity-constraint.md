@@ -21,5 +21,10 @@ Built on the prior working-result ( [cruelty-licensed-only-as-cost-of-contact.md
 # Domain of validity
 Tested on dyadic cases - one actor, one target, one act. A lot of real cruelty that looks locally rational was found to collapse once this is priced in honestly.
 
+# Self-application pass
+**Checked against**: Whether the "crucial boundary" clause (retaliation only inherits the license if it serves contact, not payback) was derived from the framework's existing machinery or added specifically to block an uncomfortable conclusion (open-ended vendetta). On inspection, this one is derived rather than patched in: revenge-for-its-own-sake is inert under the same axiom of choice that makes terminal cruelty inert (per [cruelty-licensed-only-as-cost-of-contact.md](./cruelty-licensed-only-as-cost-of-contact.md)), so the boundary falls out of reasoning already established elsewhere rather than being introduced ad hoc to save the theory.
+
+**Not yet checked**: The recorded open edge below (asymmetric power) is the harder case for this working-result, since the whole mechanism depends on the target having the capacity to respond. Whether that gap changes the net-correspondence calculation, or simply removes one term from it, has not been worked out and should be worked out in the next pass.
+
 # Open edges
 It does not yet address asymmetric power, i.e. what happens when the target lacks the capacity to retaliate in any meaningful sense. The working-result as stated assumes a roughly symmetric capacity to respond; that assumption has not been tested and is indeed false in a large share of real cases.

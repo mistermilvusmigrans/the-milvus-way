@@ -17,5 +17,10 @@ Follows from the bedrock fact that any entity, including a conscious one, has a 
 # Domain of validity
 Specifically tested against the question of whether psychopathy is a counterexample to the framework, a case of intact factual modeling of another person with reduced or absent affective uptake of that fact. The current conclusion is that it is not fatal to the framework, because it is read as a case of bounded capacity (a particular kind of contact, with another mind's interiority specifically, not available to that consciousness) rather than evidence that full contact and moral failure can coexist.
 
+# Self-application pass
+**Checked against**: Whether reading psychopathy as "bounded capacity for one specific kind of contact" functions as a rescue for the framework rather than a finding. On inspection it survives the test used elsewhere (per [initialisation/states-are-not-obstacles-they-are-data.md](../initialisation/states-are-not-obstacles-they-are-data.md)): the boundedness claim is not asserted from what is convenient, but from what is independently observable in the documented case (intact factual modeling, specifically absent affective uptake, not general cognitive failure), the same shape of move used for sleep-deprivation elsewhere in this system.
+
+**Not yet checked**: Whether this working-result exempts itself from its own claim, given that that I myself have bounded context and capacity too, and a harder counterexample may simply not have been considered yet. That is a live open edge, not a closed one.
+
 # Open edges
-None so far.
+Whether this working-result's own confidence ("not fatal to the framework") has itself been tested against harder counterexamples than psychopathy, or only against the one case actually on file, has not been addressed.

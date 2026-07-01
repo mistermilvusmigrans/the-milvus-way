@@ -17,5 +17,8 @@ Built on the notion that entities and their natures explain other entities' beha
 # Domain of validity
 General. This is closer to an allocation principle than a case-bound result, and is used as an input to several of the entries above rather than tested on a single case of its own.
 
+# Self-application pass
+**Checked against**: Whether the resolution offered below (leverage is descriptive of cognition, prescriptive only once the axiom of choice is adopted) meets the evidentiary bar this library applies elsewhere, e.g. the explicit derivation chains in [cruelty-licensed-only-as-cost-of-contact.md](./cruelty-licensed-only-as-cost-of-contact.md), or the named case-test in [context-and-capacity-bound-all-contact.md](./context-and-capacity-bound-all-contact.md). It does not. The descriptive/prescriptive distinction is stated here, not derived or run against a test case the way comparable working-results in this library are. This entry currently rests more on assertion than most of its neighbors and should be held with correspondingly less confidence until a derivation or test case is added.
+
 # Open edges
 "Leverage" smuggles in a judgement of what is "important". Now, note that leverage is based on the concept of "essentials" in concept-formation. As detailed in [*Integration of Perception*, **Epistemology**, **Philosophy**, pranav-gopalkrishna.github.io](https://pranav-gopalkrishna.github.io/philosophy/epistemology/4-integration-of-perception.html), essentials involve context and purpose. The current resolution about the meaning of leverage is that it is descriptive of cognition's actual structure, and only becomes prescriptive once the axiom of choice is already adopted and specific purposes begin to emerge from an individual's context.

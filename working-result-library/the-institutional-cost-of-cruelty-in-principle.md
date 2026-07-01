@@ -19,5 +19,10 @@ Built on [leverage-governs-allocation.md](./leverage-governs-allocation.md) appl
 # Domain of validity
 Stated and tested at the level of principle and precedent specifically - explicitly does not override the narrower, contained single-instance license established in [cruelty-licensed-only-as-cost-of-contact.md](./cruelty-licensed-only-as-cost-of-contact.md), which remains a true (if rare) limit case.
 
+# Self-application pass
+**Checked against**: The generalised form proposed in [cruelty-licensed-only-as-cost-of-contact.md](./cruelty-licensed-only-as-cost-of-contact.md): "any act whose justification bottoms out in something other than the correspondence it produces is suspect". This raises the question of whether protecting institutional trust is itself ever treated here as a terminal good rather than an instrumental one. On inspection, this working-result's statement keeps trust instrumental throughout (valuable because it is "the substrate through which contact compounds," not valuable in itself), so this working-result passes its own test as currently worded.
+
+**Not yet checked**: The open edge already on file below - corrupt or distortion-producing institutions - is exactly the case where this instrumental/terminal distinction would be stress-tested hardest, since protecting a corrupt institution's trust-substrate could not be justified this way. That case remains outstanding and is the natural next self-application check once drafted.
+
 # Open edges
 Has not yet been tested against cases where the "institution" in question is itself corrupt or actively opposed to correspondence (e.g. does the same argument protect trust within an institution that exists to produce systematic distortion). Worth a dedicated pass.

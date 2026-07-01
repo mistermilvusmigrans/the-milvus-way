@@ -22,7 +22,7 @@
 ---
 
 # How an entry is built
-Every working-result here carries 5 things:
+Every working-result here carries 6 things:
 
 > **NOTE**: This structure is load-bearing.
 > 
@@ -57,11 +57,20 @@ The actual conditions under which this was tested. A working-result applied outs
 </details>
 
 <details>
+<summary>Self-application pass</summary>
+<p>
+"Domain of validity" checks where a result holds. "Self-application pass", however, checks whether reaching the result actually followed the system's own stated premises and procedures, e.g. the states-are-data check for any felt state involved, the baseline obligation where another mind's interiority is at stake, etc. This is the field that catches an entry contradicting the method of the very system it belongs to, which nothing else in this structure is positioned to catch, since "Derivation" only checks internal logical consistency, and "Domain of validity" only checks scope, not procedural fidelity.
+</p>
+</details>
+
+<details>
 <summary>Open edges</summary>
 <p>
 What is still unresolved, still being pressed on, or known to be a soft spot.
 </p>
 </details>
+
+> **On ordering**: Self-application pass is placed before Open edges, not after, because it is frequently what *produces* an accurate Open edges section rather than something separate from it. An entry that skips the self-application check tends to report itself as settled ("None so far.") precisely in the spots where its own method wasn't actually followed - the gap doesn't announce itself. Running the check first, then letting Open edges inherit whatever it surfaces, is what keeps that section honest instead of aspirational.
 
 # I. The Base Pair
 These 2 are listed first because nearly everything else leans on one or both of them. They were originally mistaken for axioms of the system. However, they are not axioms but rather the first and most load-bearing working-results, sitting directly on the bedrock and the one axiom with nothing else between.
