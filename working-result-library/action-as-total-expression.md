@@ -34,9 +34,9 @@ Tested explicitly against hard cases:
 - Trauma-response
 - Habitual or automatic action
 
-Holds across all of them without needing a carve-out, which is part of why it earned its place as a foundation theorem in this library. Not yet tested against edge cases like altered states of consciousness (sleep, anesthesia, severe dissociation) where the faculty of awareness itself may not be functioning in the ordinary sense; this has been flagged below.
+Holds across all of them without needing a carve-out, which is part of why it earned its place as a foundation working-result in this library. Not yet tested against edge cases like altered states of consciousness (sleep, anesthesia, severe dissociation) where the faculty of awareness itself may not be functioning in the ordinary sense; this has been flagged below.
 
 # Open edges
-If the acting self just *is* the self in that context, the practical question of how to relate to someone (including yourself) after a bad act under extreme constraint becomes harder, not easier, i.e. there is no "that was not really them" available as a resource. What replaces it is addressed under the theorem [context-and-capacity-bound-all-contact.md](context-and-capacity-bound-all-contact.md), but the emotional weight of giving up that resource has not been fully worked through yet.
+If the acting self just *is* the self in that context, the practical question of how to relate to someone (including yourself) after a bad act under extreme constraint becomes harder, not easier, i.e. there is no "that was not really them" available as a resource. What replaces it is addressed under the working-result [context-and-capacity-bound-all-contact.md](context-and-capacity-bound-all-contact.md), but the emotional weight of giving up that resource has not been fully worked through yet.
 
-Also open is whether this theorem even applies to action taken while the faculty of awareness is substantially offline (sleepwalking, certain dissociative states); possibly it does not, since the theorem depends on consciousness directing itself, and there may be states where that direction is not happening at all.
+Also open is whether this working-result even applies to action taken while the faculty of awareness is substantially offline (sleepwalking, certain dissociative states); possibly it does not, since the working-result depends on consciousness directing itself, and there may be states where that direction is not happening at all.

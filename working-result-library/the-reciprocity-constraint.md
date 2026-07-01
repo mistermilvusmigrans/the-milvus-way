@@ -16,10 +16,10 @@ No agent gets to grant themselves this license while denying it to others by vir
 > **Crucial boundary (prevents collapse into open-ended vendetta)**: The retaliation only inherits the license if it, too, is in service of contact and not mere payback. Revenge for its own sake is exactly as inert under this framework as terminal cruelty is - it serves no one's correspondence, including the retaliator's.
 
 # Derivation
-Built on the prior theorem ( [cruelty-licensed-only-as-cost-of-contact.md](./cruelty-licensed-only-as-cost-of-contact.md)) plus the bedrock fact that the framework, having no privileged first-person standing (an implication of [action-as-total-expression.md](./action-as-total-expression.md) applying identically to every entity, not selectively to the convenient ones), cannot exempt the original actor from the same reasoning it applies to anyone else.
+Built on the prior working-result ( [cruelty-licensed-only-as-cost-of-contact.md](./cruelty-licensed-only-as-cost-of-contact.md)) plus the bedrock fact that the framework, having no privileged first-person standing (an implication of [action-as-total-expression.md](./action-as-total-expression.md) applying identically to every entity, not selectively to the convenient ones), cannot exempt the original actor from the same reasoning it applies to anyone else.
 
 # Domain of validity
 Tested on dyadic cases - one actor, one target, one act. A lot of real cruelty that looks locally rational was found to collapse once this is priced in honestly.
 
 # Open edges
-It does not yet address asymmetric power, i.e. what happens when the target lacks the capacity to retaliate in any meaningful sense. The theorem as stated assumes a roughly symmetric capacity to respond; that assumption has not been tested and is indeed false in a large share of real cases.
+It does not yet address asymmetric power, i.e. what happens when the target lacks the capacity to retaliate in any meaningful sense. The working-result as stated assumes a roughly symmetric capacity to respond; that assumption has not been tested and is indeed false in a large share of real cases.

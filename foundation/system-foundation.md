@@ -10,7 +10,7 @@
 
 - [Where this stands](#where-this-stands)
 - [The axiom of choice: the one axiom this system adds](#the-axiom-of-choice-the-one-axiom-this-system-adds)
-- [What is a theorem, now that the layers are clear](#what-is-a-theorem-now-that-the-layers-are-clear)
+- [What is a working-result, now that the layers are clear](#what-is-a-working-result-now-that-the-layers-are-clear)
 - [Why this matters practically, not just architecturally](#why-this-matters-practically-not-just-architecturally)
 
 ---
@@ -42,14 +42,14 @@ What this system adds the following orientation to this bedrock:
 
 > Consciousness ought to bring itself into correspondence with what is.
 
-That is the whole of it. Everything else in this system - every theorem, practice, application - is what happens when you take that orientation seriously and ask what it implies in a given situation. This is choice, sitting directly on top of fact.
+That is the whole of it. Everything else in this system - every working-result, practice, application - is what happens when you take that orientation seriously and ask what it implies in a given situation. This is choice, sitting directly on top of fact.
 
 It is worth being honest about what kind of claim this is, because it would be easy to oversell it. It is not self-evident the way "existence exists" is self-evident, for denying it is not self-refuting the same way denying existence is self-refuting. A person can simply not care whether their beliefs track what is real, and nothing about the structure of reality forces them out of that position by logical necessity alone. What can be shown, though is that the moment anyone stops to *ask* whether they should care, they are already doing the thing in question, i.e. they are already caring about bringing consciousness into correspondence with what is. The deliberation itself is an exercise of a mind trying to get something right, and thus, you cannot reason your way into not caring whether your reasoning is any good, because the reasoning would have to borrow legitimacy from the very standard it is arguing against. So the orientation is not quite forced, and it is not quite arbitrary either. It is closer to something that reveals itself as already operating in anyone capable of raising the question. The people for whom it truly does not apply are not refusing it, they are simply not in the conversation where the question is being asked at all.
 
 This is also where the earlier language about "contact" comes from and what it was always pointing at. Contact is just what correspondence between consciousness and existence looks like in practice, moment to moment, where a model and what is actually the case move together rather than moving apart. The word "contact" was always shorthand for this.
 
-# What is a theorem, now that the layers are clear
-Everything built in [initialisation](../initialisation/) - the analysis of cruelty, the reciprocity constraint, the argument from institutions and collaborative trust - sits below beddrock and the axiom of choice and its implications as worked theorems, i.e. as results obtained by applying the bedrock (the metaphysics) and the the axiom of choce to a specific question, kept around so the work doesn not have to be redone from scratch each time the question recurs in a new shape.
+# What is a working-result, now that the layers are clear
+Everything built in [initialisation](../initialisation/) - the analysis of cruelty, the reciprocity constraint, the argument from institutions and collaborative trust - sits below beddrock and the axiom of choice and its implications as worked working-results, i.e. as results obtained by applying the bedrock (the metaphysics) and the the axiom of choce to a specific question, kept around so the work doesn not have to be redone from scratch each time the question recurs in a new shape.
 
 # Why this matters practically, not just architecturally
 A system with one axiom instead of three has exactly one place where a person using this system has to look inward and ask "do I actually mean this". And everywhere else, the question is no longer "do I believe this" but "did I derive this correctly," which is a much easier to deal with cognitively and much more answerable question on a hard day. Doubt, when it comes, now has a single point of reference. That is not a minor point for something meant to be lived in rather than just read once.
