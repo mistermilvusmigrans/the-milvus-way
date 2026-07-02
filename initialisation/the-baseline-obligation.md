@@ -7,7 +7,7 @@
 **Contents**:
 
 - [Key question](#key-question)
-- [The 4 irreducible domains](#the-4-irreducible-domains)
+- [The four irreducible domains](#the-four-irreducible-domains)
 - [Particularisation: role and capacity](#particularisation-role-and-capacity)
 - [Where the moral and the epistemic collapse into one](#where-the-moral-and-the-epistemic-collapse-into-one)
 
@@ -18,7 +18,7 @@ The path diverges legitimately above some point (see: [the-value-of-depth-reconc
 
 > What constitutes that baseline?
 
-# The 4 irreducible domains
+# The four irreducible domains
 
 **1. The reality of my own nature**: I am finite: particular capacities, blind spots, desires that can deceive me, a body that situates me specifically in the world. Not knowing myself, honestly and unsentimentally, means the entire epistemic apparatus runs uncalibrated. Everything else runs through this, which means this is the most foundational obligation.
 

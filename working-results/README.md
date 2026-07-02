@@ -18,6 +18,9 @@
   - [The Institutional Cost of Cruelty in Principle](#the-institutional-cost-of-cruelty-in-principle)
 - [III. Allocation](#iii-allocation)
   - [Leverage Governs Allocation](#leverage-governs-allocation)
+  - [Precision Bounds Valid Leverage](#precision-bounds-valid-leverage)
+- [IV. Terminus](#iv-terminus)
+  - [Life-Affirmation as Entailment of Truth-Orientation](#life-affirmation-as-entailment-of-truth-orientation)
 
 ---
 
@@ -73,7 +76,7 @@ What is still unresolved, still being pressed on, or known to be a soft spot.
 > **On ordering**: Self-application pass is placed before Open edges, not after, because it is frequently what *produces* an accurate Open edges section rather than something separate from it. An entry that skips the self-application check tends to report itself as settled ("None so far.") precisely in the spots where its own method wasn't actually followed - the gap doesn't announce itself. Running the check first, then letting Open edges inherit whatever it surfaces, is what keeps that section honest instead of aspirational.
 
 # I. The Base Pair
-These 2 are listed first because nearly everything else leans on one or both of them. They were originally mistaken for axioms of the system. However, they are not axioms but rather the first and most load-bearing working-results, sitting directly on the bedrock and the one axiom with nothing else between.
+These two are listed first because nearly everything else leans on one or both of them. They were originally mistaken for axioms of the system. However, they are not axioms but rather the first and most load-bearing working-results, sitting directly on the bedrock and the one axiom with nothing else between.
 
 ## Action as Total Expression
 **See**: [action-as-total-expression.md](./action-as-total-expression.md)
@@ -100,3 +103,10 @@ This is a connected sequence:
 # III. Allocation
 ## Leverage Governs Allocation
 **See**: [leverage-governs-allocation.md](./leverage-governs-allocation.md)
+
+## Precision Bounds Valid Leverage
+**See**: [precision-bounds-valid-leverage.md](./precision-bounds-valid-leverage.md)
+
+# IV. Terminus
+## Life-Affirmation as Entailment of Truth-Orientation
+**See**: [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md)
