@@ -34,7 +34,7 @@ This means:
 Sleep, movement, nutrition, management of chronic stress are not preconditions satisfied before the real epistemic work begins. They are direct maintenance of the instrument. A chronically sleep-deprived person's capacity for accurate perception, holding complexity, and catching their own errors is genuinely degraded. They are in less contact with reality, not metaphorically but literally
 
 > - The body is not the vessel of the mind
-> - It is the mind, in one of its aspects
+> - It is the apparatus by which the mind exists and acts
 
 # Attention under siege
 Attention is the core resource, and it is under siege. Contact with reality requires sustained, directed attention; attention has physical correlates, depletes, can be hijacked, is heavily shaped by environment

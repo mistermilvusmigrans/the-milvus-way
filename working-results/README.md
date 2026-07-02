@@ -1,8 +1,8 @@
-<h1>WORKING-RESULT LIBRARY</h1>
+<h1>WORKING-RESULTS</h1>
 
 > **Key context**: [foundation/system-foundation.md](../foundation/system-foundation.md)
 
-> **A note on register**: This is neither a terse documentation nor a padded essay. This library is meant to be added to over time, the way a mathematician's notebook of worked results grows, so each entry should read like something actually worked through, not a database row. New entries get added at the bottom of their section as they are earned. Nothing gets deleted; if a working-result turns out to be wrong or over-general, it gets marked superseded and left in place, so the history of the thinking stays visible.
+> **A note on register**: This is neither a terse documentation nor a padded essay. This directory is meant to be added to over time, the way a mathematician's notebook of worked results grows, so each entry should read like something actually worked through, not a database row. New entries get added at the bottom of their section as they are earned. Nothing gets deleted; if a working-result turns out to be wrong or over-general, it gets marked superseded and left in place, so the history of the thinking stays visible.
 
 ---
 

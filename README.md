@@ -5,4 +5,4 @@ A philosophy for life, for those who seek truth.
 
 - [initialisation](./initialisation/)
 - [foundation](./foundation/)
-- [working-result-library](./working-result-library/)
+- [working-results](./working-results/)
