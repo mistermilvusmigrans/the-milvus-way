@@ -21,6 +21,11 @@
   - [Precision Bounds Valid Leverage](#precision-bounds-valid-leverage)
 - [IV. Terminus](#iv-terminus)
   - [Life-Affirmation as Entailment of Truth-Orientation](#life-affirmation-as-entailment-of-truth-orientation)
+- [V. The Self](#v-the-self)
+  - [The Self as a System of Systems](#the-self-as-a-system-of-systems)
+  - [The Subconscious as Apparatus](#the-subconscious-as-apparatus)
+  - [Felt States as Data and Register](#felt-states-as-data-and-register)
+  - [Internalised Premises and the Responsibility to Examine](#internalised-premises-and-the-responsibility-to-examine)
 
 ---
 
@@ -48,7 +53,7 @@ The result, generalised as far as it validly can be (not just the one case it wa
 <details>
 <summary>Derivation</summary>
 <p>
-What the result is built from: the bedrock metaphysics directly, the the choice axiom (see: <a href="../foundation/system-foundation.md#the-axiom-of-choice-the-one-axiom-this-system-adds">"The axiom of choice: the one axiom this system adds", foundation/system-foundation.md</a>), or other working-results already in this library.
+What the result is built from: the bedrock metaphysics directly, the the choice axiom (see: <a href="../foundation/system-foundation.md#the-axiom-of-choice-the-one-axiom-this-system-adds">"The axiom of choice: the one axiom this system adds", foundation/system-foundation.md</a>) or other working-results already in this library.
 </p>
 </details>
 
@@ -69,7 +74,7 @@ The actual conditions under which this was tested. A working-result applied outs
 <details>
 <summary>Open edges</summary>
 <p>
-What is still unresolved, still being pressed on, or known to be a soft spot.
+What is still unresolved, still being pressed on or known to be a soft spot.
 </p>
 </details>
 
@@ -101,6 +106,8 @@ This is a connected sequence:
 **See**: [the-institutional-cost-of-cruelty-in-principle.md](./the-institutional-cost-of-cruelty-in-principle.md)
 
 # III. Allocation
+This section concerns with practical principles for truth-seeking.
+
 ## Leverage Governs Allocation
 **See**: [leverage-governs-allocation.md](./leverage-governs-allocation.md)
 
@@ -108,5 +115,28 @@ This is a connected sequence:
 **See**: [precision-bounds-valid-leverage.md](./precision-bounds-valid-leverage.md)
 
 # IV. Terminus
+This section sits closer to the foundation than the others - it addresses what the axiom of choice's terminus actually is, once taken seriously as a continual rather than episodic orientation. It is kept here rather than moved into `foundation/` until it has been pressed on further, per the library's own practice of keeping working history visible rather than folding conclusions upstream prematurely.
+
 ## Life-Affirmation as Entailment of Truth-Orientation
 **See**: [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md)
+
+# V. The Self
+This section works out what the self is, underneath the "focus" already established as its one volitional capacity, and how self-evaluation should proceed given that architecture.
+
+This is a connected sequence:
+
+- Each entry depends on the one before it
+- They were worked out in that order
+- So they are kept in sequence rather than alphabetised
+
+## The Self as a System of Systems
+**See**: [the-self-as-a-system-of-systems.md](./the-self-as-a-system-of-systems.md)
+
+## The Subconscious as Apparatus
+**See**: [the-subconscious-as-apparatus.md](./the-subconscious-as-apparatus.md)
+
+## Felt States as Data and Register
+**See**: [felt-states-as-data-and-register.md](./felt-states-as-data-and-register.md)
+
+## Internalised Premises and the Responsibility to Examine
+**See**: [internalised-premises-and-the-responsibility-to-examine.md](./internalised-premises-and-the-responsibility-to-examine.md)

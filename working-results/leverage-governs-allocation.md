@@ -4,7 +4,7 @@
 
 > **Preliminary form**: [initialisation/the-hierarchy-of-knowledge-seeking.md](../initialisation/the-hierarchy-of-knowledge-seeking.md)
 
---
+---
 
 # Statement
 Where attention and time are finite, correspondence ought to be pursued in proportion to leverage, i.e. in proportion to how much further correspondence a given piece of contact unlocks, rather than in proportion to sheer volume of contact gained.

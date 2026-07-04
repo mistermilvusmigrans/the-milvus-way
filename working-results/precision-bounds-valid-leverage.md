@@ -4,7 +4,7 @@
 
 > **Preliminary form**: ["Precision", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt)
 
---
+---
 
 # Statement
 Precision and leverage are not opposing pulls to be traded off against each other. Precision, correctly defined as fit to a given context and purpose rather than as the inverse of abstraction, is the validity-condition a compression must satisfy to count as leverage at all. A compression that has dropped implications relevant to its declared purpose is not a more-leveraged, less-precise result; it is not leverage, it is noise that has borrowed leverage's shape.
@@ -28,4 +28,4 @@ General, in the same sense [leverage-governs-allocation.md](./leverage-governs-a
 
 # Open edges
 - **No operational test is given.** The criterion states what a compression must satisfy to count as leverage, but not how to check, before acting on a compression, whether it has silently dropped a purpose-relevant implication. This entry names the standard; it does not supply the check.
-- **Interaction with the terminus entry.** [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md) establishes life-sustenance as a floor beneath the system. Whether "purpose," for the purposes of this entry's criterion, must always ultimately be checked against that floor, or can be locally scoped without doing so on every leverage calculation, is not resolved here and would need its own working-result if it turns out to matter in practice.
+- **Interaction with the terminus entry.** [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md) establishes life-sustenance as a floor beneath the system. Whether "purpose," for the purposes of this entry's criterion, must always ultimately be checked against that floor, or whether it can be locally scoped without doing so on every leverage calculation, is not resolved here and would need its own working-result if it turns out to matter in practice.

@@ -12,7 +12,7 @@
 
 > **Key reference**: ["Standard of Value" / "Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (*second derivation route*)
 
---
+---
 
 # Statement
 Life-affirmation is not a second terminus standing alongside correspondence (the axiom of choice). It is the first-order entailment of taking the axiom seriously as a *continual* orientation rather than an episodic one. There is only one terminus in this system - correspondence - and life-affirmation falls out of what "continual" correspondence means once you refuse to flatten it into a series of disconnected, one-off acts of accuracy.
@@ -33,7 +33,7 @@ axiom of choice (correspondence)
 
 **A second, prior derivation route.** The continuity argument above derives life-sustenance *from* the demand that truth-orientation be ongoing rather than one-off. "Standard of Value" reaches the same conclusion by a more fundamental route, one that does not depend on continuity as a premise at all: it examines what a *goal* is, as such. A goal is self-generated action consistently oriented toward a potential, and a self-sustaining goal - one whose achievement is a necessary condition for further pursuing it - is what life *is*. The essay then shows that an indestructible, non-conditional being could not coherently have goals about its own existence at all, since nothing about that existence is ever at stake; anything it "pursues" would have to reference something outside itself, making it, in the essay's own terms, "essentially an automaton, goal-driven only in a derivative sense." Truth-orientation is itself a goal. So this route does not need to first establish that truth-orientation must be continual before it can require a persisting engager - it shows that goal-directed truth-orientation could not be a coherent goal *at all*, for *any* entity, absent the conditionality that life is. This is logically prior to the continuity argument: the continuity argument explains why an ongoing pursuit needs a persisting entity; this route explains why "pursuit" - continual or not - presupposes a conditional, living entity in the first place. The two derivations converge on the same entailment from different starting points, which is the correct relationship for them to have to each other, rather than one simply restating the other.
 
-> **A note on the weight of this convergence**: The source essay above and the "Standard of Value" / "Nature of Life" essays appear to originate from the same authorial project this repository itself is named after (mistermilvusmigrans). This is flagged rather than smoothed over, because it means the two derivation routes should not be treated as fully independent corroboration in the way, e.g., two unrelated philosophical traditions arriving at the same conclusion would be. What can be claimed honestly is that the two routes are *logically* independent of each other (neither presupposes the other), even if they are not *biographically* independent. The self-application pass below treats the convergence accordingly - as structural support, not as two separate witnesses.
+---
 
 Two further pieces from the source essay confirm this:
 
