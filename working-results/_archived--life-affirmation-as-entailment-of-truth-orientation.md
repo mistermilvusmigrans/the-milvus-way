@@ -8,7 +8,7 @@
 
 <h1>Life-Affirmation as Entailment of Truth-Orientation</h1>
 
-> **Preliminary form**: ["The Purpose of Life", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) ("source essay")
+> **Preliminary form**: ["The Purpose of Life", library/lifeblood-essays.odt](../library/lifeblood-essays.odt) ("source essay")
 
 > **Key reference**: ["Standard of Value" / "Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (*second derivation route*)
 
