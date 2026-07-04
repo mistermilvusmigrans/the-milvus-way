@@ -1,3 +1,5 @@
+**V. The Self**
+
 <h1>Worth Applied to the Self</h1>
 
 > **Preliminary form**: Combination of:
@@ -6,7 +8,7 @@
 > - ["What is Freedom About", "Freedom", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) (source essay 2)
 > - ["The Chains of the Pursuit of Happiness", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) (source essay 3)
 
---
+---
 
 # Statement
 Worth, for a self, is the objective standing of the systems that compose it, together with the quality of integration between them - not a subjective wish, but a recognition of real potential for health, cognitive-psychological capacity, and agency, where agency is the successful integration of the other systems into a single capacity to act on one's own judgement, rather than a third system standing alongside them. This is the self-facing counterpart to [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md): where that entry establishes that truth-orientation is the form life-affirmation takes for a volitional being, this entry gives content to what recognising that life-affirmation's own standing potential actually consists in.

@@ -26,6 +26,8 @@
   - [The Subconscious as Apparatus](#the-subconscious-as-apparatus)
   - [Felt States as Data and Register](#felt-states-as-data-and-register)
   - [Internalised Premises and the Responsibility to Examine](#internalised-premises-and-the-responsibility-to-examine)
+  - [Worth Applied to the Self](#worth-applied-to-the-self)
+  - [Self-Evaluation without Flattery or Punishment](#self-evaluation-without-flattery-or-punishment)
 
 ---
 
@@ -129,6 +131,17 @@ This is a connected sequence:
 - They were worked out in that order
 - So they are kept in sequence rather than alphabetised
 
+To elaborate on the above point, the entries in this section were organised by the layer of self-architecture they address, rather than by the order the source essays happened to be written in - later layers cite earlier ones directly.
+
+| Layer | Question it answers | Source material
+|---|---|---|
+| The self as a system of systems | What is actually being integrated, and what a system's own point of failure looks like | The Self & Free Will, No Soul-Body Split - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| Subconscious apparatus | How focus's outputs get automated below the level of deliberation | Virtue & Internalised Premises, Conviction |
+| Felt states | What states are, and whether they're only data or also a phenomenal register of value-contact | [initialisation/states-are-not-obstacles-they-are-data.md](../initialisation/states-are-not-obstacles-they-are-data.md) |
+| Internalised premises and responsibility | When leaving a premise unexamined, rather than its mere presence, becomes a fault | Virtue & Internalised Premises (specific claim, split out from the apparatus entry) - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| Standing capacities the self is built toward | What "worth" cashes out to for a self, not just for life in general | Nature of Life's worth-triad - ["Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html) <br><br> Freedom as Power, The Chains of the Pursuit of Happiness - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| Self-evaluation | How a self checks its own standing without collapsing into either self-flattery or self-punishment | Honour, Conviction, Rationality vs. Intelligence, Being Intelligent - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+
 ## The Self as a System of Systems
 **See**: [the-self-as-a-system-of-systems.md](./the-self-as-a-system-of-systems.md)
 
@@ -140,3 +153,9 @@ This is a connected sequence:
 
 ## Internalised Premises and the Responsibility to Examine
 **See**: [internalised-premises-and-the-responsibility-to-examine.md](./internalised-premises-and-the-responsibility-to-examine.md)
+
+## Worth Applied to the Self
+**See**: [worth-applied-to-the-self.md](./worth-applied-to-the-self.md)
+
+## Self-Evaluation without Flattery or Punishment
+**See**: [self-evaluation-without-flattery-or-punishment.md](./self-evaluation-without-flattery-or-punishment.md)
