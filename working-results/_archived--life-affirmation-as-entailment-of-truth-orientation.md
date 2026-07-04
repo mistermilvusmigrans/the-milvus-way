@@ -1,6 +1,6 @@
 > **ARCHIVED**
 >
-> Up-to-date version: [working-results/life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md)
+> Up-to-date version: [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md)
 
 ---
 

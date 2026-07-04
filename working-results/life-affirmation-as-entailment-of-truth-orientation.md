@@ -5,7 +5,7 @@
 > **Preliminary forms**:
 > 
 > - ["The Purpose of Life", library/lifeblood-essays.odt](../library/lifeblood-essays.odt) (source essay)
-> - [working-results/_archived--life-affirmation-as-entailment-of-truth-orientation.md](./_archived--life-affirmation-as-entailment-of-truth-orientation.md) (previous version)
+> - [_archived--life-affirmation-as-entailment-of-truth-orientation.md](./_archived--life-affirmation-as-entailment-of-truth-orientation.md) (previous version)
 
 > **Key reference**: ["Standard of Value" / "Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (*second derivation route*)
 
