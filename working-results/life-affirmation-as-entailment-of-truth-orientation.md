@@ -2,7 +2,10 @@
 
 <h1>Life-Affirmation as Entailment of Truth-Orientation</h1>
 
-> **Preliminary form**: ["The Purpose of Life", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) ("source essay")
+> **Preliminary forms**:
+> 
+> - ["The Purpose of Life", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) (source essay)
+> - [working-results/archived--life-affirmation-as-entailment-of-truth-orientation.md](./archived--life-affirmation-as-entailment-of-truth-orientation.md) (previous version)
 
 > **Key reference**: ["Standard of Value" / "Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (*second derivation route*)
 
