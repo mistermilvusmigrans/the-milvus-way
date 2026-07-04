@@ -5,19 +5,19 @@
 > **Preliminary forms**:
 > 
 > - ["The Purpose of Life", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) (source essay)
-> - [working-results/archived--life-affirmation-as-entailment-of-truth-orientation.md](./archived--life-affirmation-as-entailment-of-truth-orientation.md) (previous version)
+> - [working-results/_archived--life-affirmation-as-entailment-of-truth-orientation.md](./_archived--life-affirmation-as-entailment-of-truth-orientation.md) (previous version)
 
 > **Key reference**: ["Standard of Value" / "Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (*second derivation route*)
 
 --
 
 # Statement
-Life-affirmation and truth-orientation are not two termini in a downstream, one-directional relationship. Life-affirmation is the genus: any entity capable of orienting itself toward sustaining its own potential life-affirms, whether that orientation is automatic (a plant's regulatory processes), instinctive (an animal's behavior), or volitional. Truth-orientation is the species-specific form life-affirmation necessarily takes for a volitional being - the only form available to an entity with no automatic mechanism for recognizing and pursuing its own potential, which must instead actively bring itself into correspondence with what is or fail to sustain that potential at all. The axiom of choice, read this way, is not something life-affirmation is derived *from*; it is what life-affirmation *actualizes as*, for the specific kind of entity capable of choice in the first place. This does not claim truth-orientation is the only species of life-affirmation across all life - only that, for a volitional being, the two are inseparable: there is no free-standing "life-affirmation in general" such a being could pursue instead of or alongside truth-orientation.
+Life-affirmation and truth-orientation are not two termini in a downstream, one-directional relationship. Life-affirmation is the genus: any entity capable of orienting itself toward sustaining its own potential life-affirms, whether that orientation is automatic (a plant's regulatory processes), instinctive (an animal's behavior), or volitional. Truth-orientation is the species-specific form life-affirmation necessarily takes for a volitional being - the only form available to an entity with no automatic mechanism for recognizing and pursuing its own potential, which must instead actively bring itself into correspondence with what is or fail to sustain that potential at all. The axiom of choice, read this way, is not something life-affirmation is derived *from*; it is what life-affirmation *actualises as*, for the specific kind of entity capable of choice in the first place. This does not claim truth-orientation is the only species of life-affirmation across all life - only that, for a volitional being, the two are inseparable: there is no free-standing "life-affirmation in general" such a being could pursue instead of or alongside truth-orientation.
 
 # Derivation
 Start from the axiom as already stated in [foundation/system-foundation.md](../foundation/system-foundation.md#the-axiom-of-choice-the-one-axiom-this-system-adds): *consciousness ought to bring itself into correspondence with what is.*
 
-**The genus/species relation.** Life-affirmation, as a genus, names any self-generated orientation toward sustaining one's own potential - this covers automatic and instinctive cases as much as volitional ones. But a genus never exists uninstantiated; only its species do. For a volitional being specifically, there is no automatic or instinctive route available to sustaining potential - recognition and pursuit of what is must be actively, consciously carried out, or it does not happen. Truth-orientation is what that active carrying-out consists in. This is why the axiom of choice can be read as the actualized, volitional-specific form of the broader genus, rather than as a separate value that life-affirmation happens to produce downstream. The relationship is one of instantiation, not sequence.
+**The genus/species relation.** Life-affirmation, as a genus, names any self-generated orientation toward sustaining one's own potential - this covers automatic and instinctive cases as much as volitional ones. But a genus never exists uninstantiated; only its species do. For a volitional being specifically, there is no automatic or instinctive route available to sustaining potential - recognition and pursuit of what is must be actively, consciously carried out, or it does not happen. Truth-orientation is what that active carrying-out consists in. This is why the axiom of choice can be read as the actualised, volitional-specific form of the broader genus, rather than as a separate value that life-affirmation happens to produce downstream. The relationship is one of instantiation, not sequence.
 
 This reframes, but does not discard, the continuity argument that originally established this entry. That argument still explains something real, just at a narrower point than previously stated: not *why* life-affirmation is entailed by truth-orientation in general, but *why*, given that a volitional being's only route to life-affirmation is truth-orientation, that truth-orientation must itself be continual rather than episodic to actually do the job.
 
@@ -29,7 +29,7 @@ This gives the corrected structure:
 life-affirmation (genus: any entity sustaining its own potential)
       -> for a volitional being, no automatic route is available
       -> must actively recognize and pursue what is, or fail to sustain potential
-      -> truth-orientation (the species-specific, actualized form)
+      -> truth-orientation (the species-specific, actualised form)
       -> taken seriously as continual, not episodic
       -> requires a persisting engager
       -> sustaining that engager is what the pursuit of life-affirmation, in its only available form, already consists in
