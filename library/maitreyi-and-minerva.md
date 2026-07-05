@@ -16,7 +16,7 @@
 ---
 
 # About
-Many months ago from today (2026-07), I had created a character in a story of 2 sisters. It was the story of Maitreyi, the sister who sought to make the world hers, and the sister for whom the joyous existence of his little sister, Minerva, was a source of not just joy but... inspiration, devotional inspiration. Before I move on, let me lay out parts of my sketches for these characters.
+Many months ago from today (2026-07), I had created a character in a story of two sisters. It was the story of Maitreyi, the sister who sought to make the world hers, and the sister for whom the joyous existence of his little sister, Minerva, was a source of not just joy but... inspiration, devotional inspiration. Before I move on, let me lay out parts of my sketches for these characters.
 
 # Character Sketches
 **Maitreyi**:
