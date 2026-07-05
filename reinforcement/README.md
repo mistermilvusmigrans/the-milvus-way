@@ -2,7 +2,7 @@
 
 ---
 
-> **Key reference**: ["Concretisation", "Laying the Foundations", Philosophy in Practice, Philosophy](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/1-laying-foundations.html#concretisation)
+> **Key reference**: ["Concretisation", "Laying the Foundations", Philosophy in Practice, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/1-laying-foundations.html#concretisation)
 
 ---
 
