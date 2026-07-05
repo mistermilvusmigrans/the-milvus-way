@@ -23,4 +23,4 @@ Applies to any consciousness, which, by virtue of being something in particular,
 **Not yet checked**: Whether this working-result exempts itself from its own claim, given that that I myself have bounded context and capacity too, and a harder counterexample may simply not have been considered yet. That is a live open edge, not a closed one.
 
 # Open edges
-Whether this working-result's own confidence ("not fatal to the framework") has itself been tested against harder counterexamples than psychopathy, or only against the one case actually on file, has not been addressed.
+Whether this working-result's own confidence ("not fatal to the framework") has itself been tested against harder counterexamples than psychopathy.
