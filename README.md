@@ -13,6 +13,7 @@ A philosophy for life, for those who seek truth.
 - [foundation](./foundation/)
 - [working-results](./working-results/)
 - [library](./library/)
+- [reinforcement](./reinforcement/)
 
 ---
 
