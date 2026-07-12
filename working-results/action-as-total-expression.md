@@ -2,11 +2,11 @@
 
 <h1>Action as Total Expression</h1>
 
-> **Preliminary form**: [initialisation/no-exceptions-action-as-total-expression.md](../initialisation/no-exceptions-action-as-total-expression.md)
-
 | Previous | Next |
 | --- | --- |
 | - | [context-and-capacity-bound-all-contact.md](./context-and-capacity-bound-all-contact.md) |
+
+> **Preliminary form**: [initialisation/no-exceptions-action-as-total-expression.md](../initialisation/no-exceptions-action-as-total-expression.md)
 
 ---
 

@@ -18,7 +18,10 @@ If a philosophy must be lived -
 - its principles must be concretisable
 - and they must be regularly concretised.
 
+In other words, it must be practicable and practiced.
+
 ---
 
 # Navigate
-- [practices.md](./practices.md)
+- [core-practices.md](./core-practices.md)
+- [consider-the-frame.md](./consider-the-frame.md)

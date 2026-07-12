@@ -1,4 +1,4 @@
-<h1>Practices</h1>
+<h1>Core Practices</h1>
 
 *Key load-bearing truths and practices to connect with them.*
 
