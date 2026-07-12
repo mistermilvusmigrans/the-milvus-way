@@ -53,4 +53,6 @@ When considering what a criminal should face for a violent crime, consider wheth
 
 **3.**
 
-What if beauty is a vague value-statement disguised as an objective/intrinsic quality, serving to assign neutral traits to a hierarchy of values, ascribing inherent moral qualities to something that is morally neutral?
+What if beauty is a vague value-statement disguised as an objective/intrinsic quality, serving to assign neutral traits to a hierarchy of values, ascribing inherent moral qualities to something that is morally neutral? What if its use can turn judgement from appreciation to discrimination?
+
+> **Reference**: [library/against-beauty.md](../library/against-beauty.md)

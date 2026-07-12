@@ -25,3 +25,4 @@ In other words, it must be practicable and practiced.
 # Navigate
 - [core-practices.md](./core-practices.md)
 - [consider-the-frame.md](./consider-the-frame.md)
+- [account-for-attrition.md](./account-for-attrition.md)
