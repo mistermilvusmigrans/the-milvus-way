@@ -37,7 +37,7 @@ You see, a shared word used with an unshared context is meaningless for communic
 
 Well? These are wildly different uses, in wildly different contexts, involving wildly different orientations. What "love" means for a spouse involves a level of intimacy and partnership that simply does not exist for a friend or a mother. The love of ice-cream for its flavour and its sensory pleasure is not the easy to lump together with the feeling of profound inspiration and drive found in the love of mathematics. The love of my job can mean anything from enjoying your work-life to being passionate about what you create.
 
-Now, you may say that this is unfair, because we can infer the context between "I love ice-cream" and "I love mathematics". Yes, in many cases we can. But note that even the love one person has for one kind of target, e.g. a spouse, can differ enormously from the love another has the same kind of target. One man may love his wife for the role she has as the mother of his children and as his emotional support. Another man may love his wife for her moral character and her admirable drive toward her goals. Yet another man may love his wife as a best friend and "partner-in-crime". Some consider such "love" as involving loyalty above all. Some consider such "love" as selfless, unconditional, something that demands the sacrifice of one's interests for the target of their love. Some consider such "love" as mutually beneficial, mutually enriching. Some regard it as a near-mystical force with its own demands apart from reason and self-preservation. Some regard it as a neurochemical phenomenon.
+Now, you may say that this is unfair, because we can infer the contextual difference between "I love ice-cream" and "I love mathematics". Yes, indeed in many cases we can. But note that even the love one person has for one kind of target, e.g. a spouse, can differ enormously from the love another has the same kind of target. One man may love his wife for the role she has as the mother of his children and as his emotional support. Another man may love his wife for her moral character and her admirable drive toward her goals. Yet another man may love his wife as a best friend and "partner-in-crime". Some consider such "love" as involving loyalty above all. Some consider such "love" as selfless, unconditional, something that demands the sacrifice of one's interests for the target of their love. Some consider such "love" as mutually beneficial, mutually enriching. Some regard it as a near-mystical force with its own demands apart from reason and self-preservation. Some regard it as a neurochemical phenomenon.
 
 Similarly, let us narrow the context and consider what "love" means as a path to devotion or care. What does "love" mean for a Christian who wants to scare you with hellfire in order to bring you to the "light" of God? What does "love" mean for a romantic who puts the object of their love on a pedestal and blames the same if they fail to live up to this unfair, unwanted idealisation? What does "love" mean to a parent who beats their child to make the child submit to what the parent "knows better"?
 
@@ -52,7 +52,7 @@ I do believe in:
 - Commitment of mutual care and benefit
 - Partnership borne of mutual appreciation/admiration
 
-I shall out "love" to rest and let my intent actually be clear.
+I shall put "love" to rest and let my intent actually be clear.
 
 ---
 
