@@ -19,6 +19,7 @@
 - [III. Allocation](#iii-allocation)
   - [Leverage Governs Allocation](#leverage-governs-allocation)
   - [Precision Bounds Valid Leverage](#precision-bounds-valid-leverage)
+  - [Leverage and Individual Embeddedness](#leverage-and-individual-embeddedness)
 - [IV. Terminus](#iv-terminus)
   - [Life-Affirmation and Truth-Orientation](#life-affirmation-and-truth-orientation)
   - [Life-Affirmation as Lived Reality, Not Optimisation](#life-affirmation-as-lived-reality-not-optimisation)
@@ -116,6 +117,9 @@ This section concerns with practical principles for truth-seeking.
 
 ## Precision Bounds Valid Leverage
 **See**: [precision-bounds-valid-leverage.md](./precision-bounds-valid-leverage.md)
+
+## Leverage and Individual Embeddedness
+**See**: [leverage-and-individual-embeddedness.md](./leverage-and-individual-embeddedness.md)
 
 # IV. Terminus
 This section sits closer to the foundation than the others - it addresses what the axiom of choice's terminus actually is, once taken seriously as a continual rather than episodic orientation. It is kept here rather than moved into `foundation/` until it has been pressed on further, per the library's own practice of keeping working history visible rather than folding conclusions upstream prematurely.
