@@ -11,7 +11,7 @@
 ---
 
 # Statement
-Life-affirmation (as well as its species, truth-orientation) is fundamentally about engaging with reality directly, i.e. via experience. Everything else - from principles to purposes - is in service of this engagement, not the other way around. Hence, life-affirmation is not an optimisation problem, i.e. not a question of how to "maximise" engagement, self-sustenance, or any such metric.
+Life-affirmation (as well as its species, truth-orientation) is fundamentally about engaging with reality directly, i.e. via experience. Everything else - from principles to purposes - is in service of this engagement, not the other way around. Hence, life-affirmation - considering life as a whole - is not an optimisation problem, i.e. not a question of how to "maximise" engagement, self-sustenance, or any such metric.
 
 # Derivation
 **Part 1: The nature of self-preservation**:
@@ -61,3 +61,5 @@ Applies for life-affirmation for a volitional being. Specifically, it applies fo
 # Open edges
 - **Can some form of "optimisation" be valid for life as a whole?** While this working-result denies that life-affirmation is fundamentally an optimisation problem by affirming what it fundamentally is, it is uncertain whether optimisation, if properly defined and scoped, could be applicable for some aspect of life-affirmation fundamentally, because "optimisation" as a term depends entirely on context and defined goals/standards.
 - **What are the practical implications of this view?** This is admittedly unclear at this stage, and I aim to flesh this out with subsequent working results and practices.
+- **The "Statement" risks overclaiming relative to its own "Domain of validity".** "Life-affirmation... is not an optimisation problem" is stated flatly in the Statement, but "Domain of validity" immediately qualifies this - "certain purposes or pursuits may well be optimisation problems and validly so... in service of life as a whole." The two are compatible on a careful reading, but the "Statement" alone asserts more than the entry actually defends, and should be read with that qualification in mind rather than at face value.
+- **The jump from part 3 to the synthesis is under-argued in "Derivation".** Part 3 establishes a metaphysical claim - that abstractions refer to and are reducible to concretes. The synthesis then treats this as licensing an ethical claim - that concrete engagement is "as much the fulfillment... as it is the fuel," and that abstracted pursuit is secondary to it. The connective tissue between "abstractions are metaphysically reducible to concretes" and "concrete engagement is what pursuits are ultimately for" is not fully supplied; the two claims currently share the word "concrete" without an argument establishing that the metaphysical sense and the lived/ethical sense of the word carry the same weight.
