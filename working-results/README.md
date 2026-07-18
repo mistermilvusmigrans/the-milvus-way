@@ -20,7 +20,8 @@
   - [Leverage Governs Allocation](#leverage-governs-allocation)
   - [Precision Bounds Valid Leverage](#precision-bounds-valid-leverage)
 - [IV. Terminus](#iv-terminus)
-  - [Life-Affirmation as Entailment of Truth-Orientation](#life-affirmation-as-entailment-of-truth-orientation)
+  - [Life-Affirmation and Truth-Orientation](#life-affirmation-and-truth-orientation)
+  - [Life-Affirmation as Lived Reality, Not Optimisation](#life-affirmation-as-lived-reality-not-optimisation)
 - [V. The Self](#v-the-self)
   - [The Self as a System of Systems](#the-self-as-a-system-of-systems)
   - [The Subconscious as Apparatus](#the-subconscious-as-apparatus)
@@ -119,8 +120,11 @@ This section concerns with practical principles for truth-seeking.
 # IV. Terminus
 This section sits closer to the foundation than the others - it addresses what the axiom of choice's terminus actually is, once taken seriously as a continual rather than episodic orientation. It is kept here rather than moved into `foundation/` until it has been pressed on further, per the library's own practice of keeping working history visible rather than folding conclusions upstream prematurely.
 
-## Life-Affirmation as Entailment of Truth-Orientation
-**See**: [life-affirmation-as-entailment-of-truth-orientation.md](./life-affirmation-as-entailment-of-truth-orientation.md)
+## Life-Affirmation and Truth-Orientation
+**See**: [life-affirmation-and-truth-orientation.md](./life-affirmation-and-truth-orientation.md)
+
+## Life-Affirmation as Lived Reality, Not Optimisation
+**See**: [life-affirmation-as-lived-reality-not-optimisation.md](./life-affirmation-as-lived-reality-not-optimisation.md)
 
 # V. The Self
 This section works out what the self is, underneath the "focus" already established as its one volitional capacity, and how self-evaluation should proceed given that architecture.
@@ -134,13 +138,13 @@ This is a connected sequence:
 To elaborate on the above point, the entries in this section were organised by the layer of self-architecture they address, rather than by the order the source essays happened to be written in - later layers cite earlier ones directly.
 
 | Layer | Question it answers | Source material
-|---|---|---|
-| The self as a system of systems | What is actually being integrated, and what a system's own point of failure looks like | The Self & Free Will, No Soul-Body Split - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
-| Subconscious apparatus | How focus's outputs get automated below the level of deliberation | Virtue & Internalised Premises, Conviction |
-| Felt states | What states are, and whether they're only data or also a phenomenal register of value-contact | [initialisation/states-are-not-obstacles-they-are-data.md](../initialisation/states-are-not-obstacles-they-are-data.md) |
-| Internalised premises and responsibility | When leaving a premise unexamined, rather than its mere presence, becomes a fault | Virtue & Internalised Premises (specific claim, split out from the apparatus entry) - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
-| Standing capacities the self is built toward | What "worth" cashes out to for a self, not just for life in general | Nature of Life's worth-triad - ["Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html) <br><br> Freedom as Power, The Chains of the Pursuit of Happiness - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
-| Self-evaluation | How a self checks its own standing without collapsing into either self-flattery or self-punishment | Honour, Conviction, Rationality vs. Intelligence, Being Intelligent - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| --- | --- | --- |
+| The Self as a System of Systems | What is actually being integrated, and what a system's own point of failure looks like | The Self & Free Will, No Soul-Body Split - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| The Subconscious as Apparatus | How focus's outputs get automated below the level of deliberation | Virtue & Internalised Premises, Conviction |
+| Felt States as Data and Register | What states are, and whether they're only data or also a phenomenal register of value-contact | [initialisation/states-are-not-obstacles-they-are-data.md](../initialisation/states-are-not-obstacles-they-are-data.md) |
+| Internalised Premises and the Responsibility to Examine | When leaving a premise unexamined, rather than its mere presence, becomes a fault | Virtue & Internalised Premises (specific claim, split out from the apparatus entry) - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| Worth Applied to the Self | What "worth" cashes out to for a self, not just for life in general | Nature of Life's worth-triad - ["Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html) <br><br> Freedom as Power, The Chains of the Pursuit of Happiness - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
+| Self-Evaluation without Flattery or Punishment | How a self checks its own standing without collapsing into either self-flattery or self-punishment | Honour, Conviction, Rationality vs. Intelligence, Being Intelligent - [library/lifeblood-essays.odt](../library/lifeblood-essays.odt) |
 
 ## The Self as a System of Systems
 **See**: [the-self-as-a-system-of-systems.md](./the-self-as-a-system-of-systems.md)

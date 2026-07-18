@@ -1,13 +1,17 @@
 **IV. Terminus**
 
-<h1>Life-Affirmation as Entailment of Truth-Orientation</h1>
+<h1>Life-Affirmation and Truth-Orientation</h1>
+
+| Previous | Next |
+| --- | --- |
+| - | [life-affirmation-as-lived-reality-not-optimisation.md](./life-affirmation-as-lived-reality-not-optimisation.md) |
 
 > **Preliminary forms**: ["The Purpose of Life", library/lifeblood-essays.odt](../library/lifeblood-essays.odt) (source essay)
 
 > **Key references**:
 > 
 > - ["The Standard of Value", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (*second derivation route*)
-> - ["Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html)
+> - ["The Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html)
 
 ---
 
