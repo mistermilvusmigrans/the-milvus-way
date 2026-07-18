@@ -43,7 +43,7 @@ This requires something that:
 > - *Being in* a state
 > - *Being identified with* a state
 
-This is not a neutral, stateless position - that doesn't exist. This is more like a meta-awareness that persists across states. Not detachment - detachment would lose the epistemic value of the states themselves - but the capacity to be fully in the wave while also knowing I am in a wave, i.e. letting each state do its epistemic work while retaining the thread back to the broader project.
+This is not a neutral, stateless position - that does not exist. This is more like a meta-awareness that persists across states. Not detachment - detachment would lose the epistemic value of the states themselves - but the capacity to be fully in the wave while also knowing I am in a wave, i.e. letting each state do its epistemic work while retaining the thread back to the broader project.
 
 # What the anchor is made of
 - **A stable relationship to the question itself**: Orientation genuinely toward contact with reality (not toward being right, feeling good or social approval) functions as a gyroscope - every state evaluated by: what is this showing me, and what is it obscuring?
