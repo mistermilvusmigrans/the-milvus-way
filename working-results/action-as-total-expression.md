@@ -24,7 +24,7 @@ There is no hidden, more authentic version of a person sitting behind their pani
 # Derivation
 This is the law of causality, inherited whole from the bedrock metaphysics (see: (1) [foundation/system-foundation.md](../foundation/system-foundation.md), (2) [initialisation/no-exceptions-action-as-total-expression.md](../initialisation/no-exceptions-action-as-total-expression.md)), applied to a conscious entity: what a thing does cannot be separated from what it is, and its potential for action is actualised through its context.
 
-The only thing this system adds on top of the inherited bedrock is the further observation that, since a conscious entity - insofar as it acts consciously - acts primarily through the faculty of awareness, and that faculty can only ever look outward, the *one* variable available to a conscious entity, i.e. the one place its own influence over itself can land, is where that faculty is pointed. ***This is focus***. It is not a separate capacity apart from conscious action but its prerequisite.
+The only thing this system adds on top of the inherited bedrock is the further observation that, since a conscious entity - insofar as it acts consciously - acts primarily through the faculty of awareness, and that faculty is fundamentally the faculty of focus, the *one* variable available to a conscious entity, i.e. the one place its own influence over itself can land, is where that faculty is pointed. ***This is focus***. It is not a separate capacity apart from conscious action but its prerequisite.
 
 # Domain of validity
 Tested explicitly against hard cases:
