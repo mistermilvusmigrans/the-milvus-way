@@ -7,7 +7,7 @@
 **Contents**:
 
 - [The difficulty: does generality outrank intimacy](#the-difficulty-does-generality-outrank-intimacy)
-- [Resolution: leverage from where me stand](#resolution-leverage-from-where-me-stand)
+- [Resolution: leverage from where I stand](#resolution-leverage-from-where-i-stand)
 - [Three ways context determines leverage](#three-ways-context-determines-leverage)
 - [The constant criterion: alive vs. inert knowledge](#the-constant-criterion-alive-vs-inert-knowledge)
 
@@ -16,7 +16,7 @@
 # The difficulty: does generality outrank intimacy
 The hierarchy of knowledge-seeking seems to privilege the general over the particular, the physicist over the glassblower. But this looks clearly wrong: a craftsman with extraordinary intimate knowledge of their material is not thereby in less contact with reality than someone who can derive that material's properties from equations.
 
-# Resolution: leverage from where me stand
+# Resolution: leverage from where I stand
 > **KEY IDEA**: The leverage hierarchy is:
 > 
 > - A property of knowledge structures in the abstract
