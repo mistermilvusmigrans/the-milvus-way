@@ -22,7 +22,7 @@
 No caveats. Anything - person or not - follows it. There is no gradient of "more or less real" action. The panicked act is not a corruption of some truer self hiding behind it - it *is* what that being is, panicked, acting. The trained habit *is* what that being is, conditioned, acting. There is no homunculus of a "real self" standing apart from the action that did not quite make it out into the world
 
 # Objection: does this not excuse anything?
-If whatever a person does simply *is* what they are, full stop, does this not risk excusing anything? No. Notice that the alternative - "true self" versus "distorted expression" - quietly reintroduces exactly the soul/matter dualism the framework rejected at the outset. If there is no ontological gap between being and action, there cannot be a gap between "true being" and "actual action" either. The action is always full expression, never partial expression of something held in reserve.
+If whatever a person does simply *is* what they are, full stop, does this not risk excusing anything? No, on the contrary, it gives no means to excuse oneself on the basis of "not being oneself" in a given instance. Notice that the alternative - "true self" versus "distorted expression" - quietly reintroduces exactly the soul/matter dualism the framework rejected at the outset, and thereby gives a means to separate "true self" from "actual action". If there is no ontological gap between being and action, there cannot be a gap between "true self" and "actual action" either. The action is always full expression, never partial expression of something held in reserve.
 
 # Reframing agency: focus, and what follows from it
 The only capacity available to a person, on this view:
