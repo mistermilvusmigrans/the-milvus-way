@@ -42,7 +42,7 @@ The obligation:
 - While never abandoning the universal baseline
 
 # Where the moral and the epistemic collapse into one
-Most of what is called moral failure maps onto failure at the baseline level. Cruelty, negligence, dishonesty, exploitation - these involve failures to be in genuine contact with the reality of other people, oneself or the actual consequences of one's actions.
+I posit that most of what is called moral failure maps onto failure at the baseline level. Cruelty, negligence, dishonesty, exploitation - these involve failures to be in genuine contact with the reality of other people, oneself or the actual consequences of one's actions.
 
 ---
 
