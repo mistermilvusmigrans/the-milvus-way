@@ -62,15 +62,15 @@ This means:
 - That contradiction cannot be simultaneously true
 - That reality has structure that inference can track
 
-Me cannot get behind these to verify them from a more fundamental position. Their abandonment does not produce freedom or sophistication, it produces incoherence. The thoroughgoing skeptic cannot even mount the skeptical argument without presupposing the validity of the inference rules they are using. Skepticism is parasitic on convictions it cannot itself justify.
+I cannot get behind these to verify them from a more fundamental position. Their abandonment does not produce freedom or sophistication, it produces incoherence. The thoroughgoing skeptic cannot even mount the skeptical argument without presupposing the validity of the inference rules they are using. Skepticism is parasitic on convictions it cannot itself justify.
 
 > Skepticism is a tool, not a home.
 
 # What follows: the framework's spine
 If certain convictions are foundational, and reasoning is valid, what follows logically from them is not optional. One cannot hold the foundations and reject the conclusions without fracturing the apparatus relied on to hold anything at all. The framework is not rigid - it can revise, learn, be surprised by reality. But there is a core that does not bend, not because it is protected by faith or authority, but because it *is* the structure within which bending and not-bending become meaningful distinctions at all
 
-> Without bedrock me cannot afford to question anything <br> - *every challenge threatens total collapse.*
+> Without bedrock I cannot afford to question anything <br> - *every challenge threatens total collapse.*
 > 
-> With bedrock me can follow an argument wherever it leads <br> - *the ground will not disappear beneath me.*
+> With bedrock I can follow an argument wherever it leads <br> - *the ground will not disappear beneath me.*
 
 The conviction at the foundation is not the enemy of inquiry. It is its condition. The knower is: fully motivated but anchored to the project rather than to any conclusion; firmly convicted at the foundation, not dogmatically but structurally; revisable at every level above the foundation, precisely because the foundation is secure.
