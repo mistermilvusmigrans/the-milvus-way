@@ -31,6 +31,8 @@ The anchor involves letting reality have the final word - but this presupposes a
 Reasoning requires orientation: something must matter enough to pursue, some questions worth asking over others, some answers more satisfying than others. Without motivation, there is no inquiry, only noise. The fantasy of the purely dispassionate reasoner is not an ideal to approximate; it is a description of a nothing. Every act of genuine thinking is powered by curiosity, love, fury, aesthetic sense, commitment to a project - these are not contaminants, they are what make thinking possible at all
 
 # Does motivated thinking threaten the anchor?
+> **Context**: ["The anchor: meta-awareness, not detachment", states-are-not-obstacles-they-are-data.md](./states-are-not-obstacles-they-are-data.md#the-anchor-meta-awareness-not-detachment)
+
 > The anchor does not eliminate motivation, it *orients* it.
 
 It asks of each motivated state:
@@ -67,8 +69,8 @@ Me cannot get behind these to verify them from a more fundamental position. Thei
 # What follows: the framework's spine
 If certain convictions are foundational, and reasoning is valid, what follows logically from them is not optional. One cannot hold the foundations and reject the conclusions without fracturing the apparatus relied on to hold anything at all. The framework is not rigid - it can revise, learn, be surprised by reality. But there is a core that does not bend, not because it is protected by faith or authority, but because it *is* the structure within which bending and not-bending become meaningful distinctions at all
 
-> Without bedrock me cannot afford to question anything <br> - *every challenge threatens total collapse*.
+> Without bedrock me cannot afford to question anything <br> - *every challenge threatens total collapse.*
 > 
-> With bedrock me can follow an argument wherever it leads <br> - *the ground will not disappear beneath *me.
+> With bedrock me can follow an argument wherever it leads <br> - *the ground will not disappear beneath me.*
 
 The conviction at the foundation is not the enemy of inquiry. It is its condition. The knower is: fully motivated but anchored to the project rather than to any conclusion; firmly convicted at the foundation, not dogmatically but structurally; revisable at every level above the foundation, precisely because the foundation is secure.

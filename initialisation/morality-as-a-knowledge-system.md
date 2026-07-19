@@ -15,9 +15,10 @@
   - Set of rules
   - Set of edicts
   - Set of values deemed worthy by some higher authority
-- Morallity as a:
+- Morality as a:
   - Knowledge-base
-  - Model for what does and does not work <br> >> **In the pursuit of a single aim**: <br> To be in contact with reality
+  - Model for what does and does not work <br> **... in the pursuit of a single aim**:
+    > To be in contact with reality
 
 "To be in contact with reality"
 
