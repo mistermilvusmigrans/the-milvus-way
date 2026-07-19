@@ -9,6 +9,7 @@
 **Contents**:
 
 - [How an entry is built](#how-an-entry-is-built)
+- [Meta-Principles](#meta-principles)
 - [I. The Base Pair](#i-the-base-pair)
   - [Action as Total Expression](#action-as-total-expression)
   - [Context and Capacity Bound All Contact](#context-and-capacity-bound-all-contact)
@@ -82,7 +83,10 @@ What is still unresolved, still being pressed on or known to be a soft spot.
 </p>
 </details>
 
-> **On ordering**: Self-application pass is placed before Open edges, not after, because it is frequently what *produces* an accurate Open edges section rather than something separate from it. An entry that skips the self-application check tends to report itself as settled ("None so far.") precisely in the spots where its own method wasn't actually followed - the gap doesn't announce itself. Running the check first, then letting Open edges inherit whatever it surfaces, is what keeps that section honest instead of aspirational.
+> **On ordering**: Self-application pass is placed before Open edges, not after, because it is frequently what *produces* an accurate Open edges section rather than something separate from it. An entry that skips the self-application check tends to report itself as settled ("None so far.") precisely in the spots where its own method was not actually followed - the gap does not announce itself. Running the check first, then letting Open edges inherit whatever it surfaces, is what keeps that section honest instead of aspirational.
+
+# Meta-Principles
+**See**: [meta-principles](./meta-principles/)
 
 # I. The Base Pair
 These two are listed first because nearly everything else leans on one or both of them. They were originally mistaken for axioms of the system. However, they are not axioms but rather the first and most load-bearing working-results, sitting directly on the bedrock and the one axiom with nothing else between.
