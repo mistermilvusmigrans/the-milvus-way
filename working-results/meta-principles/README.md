@@ -18,8 +18,8 @@ Meta-principles are principles about principles + generalisations, i.e. a kind o
 
 > **NOTE**:
 > 
-> - "Generalisation" is the broadest concept <br> => *A principle and a meta-principle are both generalisations*
-> - "Principle" is the second-broadest concept <br> => *A meta-principle is a principle*
+> - "Generalisation" is the broadest conceptual category <br> => *A principle and a meta-principle are both generalisations*
+> - "Principle" is the second-broadest conceptual category <br> => *A meta-principle is a principle*
 
 # Purpose
 - Organise working-results and other ideas in the system logically
