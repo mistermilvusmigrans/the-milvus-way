@@ -1,0 +1,39 @@
+<h1>Making Ideas Alive</h1>
+
+---
+
+# What is a "living" idea?
+First, let us start with what an idea is. An idea is a conceptual mental unit that exists in a cognitive context. A mental unit is an actual or potential part of awareness ("potential part of awareness" means it can be brought into awareness and has a distinct, consistent nature when brought into awareness). A conceptual mental unit is a mental unit consisting of one or more concepts.
+
+> **SIDE NOTE: The purpose of the concept of "idea"**: The concept of "idea" serves to identify those parts of awareness that deal with conceptual-level thinking, which is a level of thinking that brings forth its own set of opportunities (e.g. the ability to integrate facts to purposes across an unlimited range of contexts) and risks (e.g. misidentifying broader relationships/patterns).
+
+I shall define "living" ideas to differentiate between ideas that are reliably concretisable and thus usable in concrete action/decision-making, versus ideas that are inert, i.e. floating abstractions or abstractions that do not generate insights in concrete contexts. The focus on concretisability is vital, because ontologically, only particulars - i.e. concretes - exist, and abstractions are essentially an epistemological means of organising particulars. In other words, only particulars exist, and abstractions help us know and deal with particulars beyond what is directly present and perceived. Hence, an idea that cannot help us know and deal with particulars is an idea that has defaulted on its core reality-grounded purpose.
+
+Let us now make this idea about an idea's purpose a living idea, as a sort of self-reinforcing example. Take the idea of a greatest common divisor (GCD). It can be concretised by having it derived for a variety of number-sets: GCD(54, 42) = 6, GCD(86, 129) = 43, etc. Hence, it is already a living idea, as it can be concretised with respect to numbers, which can themselves be concretised. To expand on this, let us consider a real-life problem: we need to place boxes within a number of storerooms of varying dimensions, it is inefficient to order different box-sizes, we want to maximise the size of the boxes and we want to minimise wasted storage space. The GCDs of the dimensions of these rooms (1 GCD for the length, 1 GCD for the breadth, assuming rectangular floor-plans) are what we need here. Here, the aliveness of the GCD as an idea is even more apparent. However, if the GCD remained in one's mind as an uninstantiated definition, e.g. "the largest whole number that divides 2 or more whole numbers without a remainder", without engaging with how this plays out in practice, the idea would be inert. For us reading this, this may not seem inert as we can see how the GCD can present itself in particular examples, but imagine saying this to a child who barely understands division. The child may remember the words and may even understand the statement in abstract, yet may have no ability to apply it for any given numbers.
+
+This may seem hard to imagine, but I have in fact faced the same situation, just for higher-level mathematics. Understanding a theorem's statement in number theory was in no way a substitute for practicing problems where I would need to apply this theorem effectively - this was especially surprising to me when I could understand how the theorem was derived/proved yet would struggle to see how to use it in a given problem.
+
+This is easier to imagine, I think, with philosophical ideas. For example, understanding what "critical thinking" means - the practice of objective analysis/evaluation of ideas or situations - does not show me how it "looks like" in practice. Was Parmenides thinking critically when he "proved" that the universe was one indivisible whole and change/multiplicity were illusions? Was Aristotle thinking critically when he justified slavery via the notion of "natural slaves"? What about flat-Earth proponents who "rely on the evidence of their senses"? Why is someone who has never been to space or done any experiments/measurements about the Earth's shape entitled to the opinion that the Earth is spherical? The point of these examples is to show that the abstract statement of what critical thinking is not enough to know what critical thinking looks like in practice. I guess I am thinking critically about critical thinking, which makes it alive in my mind, but I hope you see how it took practice to bring a definition to life.
+
+---
+
+Now, a key point to note here, a point which I think has become evident by now, is that the aliveness of an idea is not inherent in the idea itself. The same idea - e.g. the GCD - can be alive in one mind and inert in another. Hence, the aliveness of an idea is not of the idea in and of itself, but of the idea-in-mind, i.e. the idea as grasped by a particular mind in its particular cognitive context.
+
+Another key point to note is that there is no reason to make aliveness a binary attribute. I think it is valid to speak of aliveness in degrees, since our ability to apply ideas in practice can vary from dogmatism to competence to mastery. For example, a beginner can understand that classes in object-oriented programming encapsulate attributes and methods, but may not yet grasp how classes can be used for creating data models and thereby enforcing data structures much more efficiently than post-hoc validation. Or, take the example of Newton's laws of motion and gravitation. I can understand them and apply them for some real-life problems, but I have no idea how these are used to calculate the orbits of celestial bodies. The same concept, but different levels of concretisability to different minds.
+
+Hence, a "living" idea is an idea that can be applied, dealt with across a range of contexts and for a range of purposes, and we can also speak of how alive it is, measuring comparatively or with respect to some expected/desired level of proficiency. This is an important concept for the discussion to come, which explores how to bring ideas to life and make them more alive in a way that furthers our own purposes.
+
+# Aliveness and validity
+Since the aliveness of an idea is not about the idea's contents in and of itself but about how it is held and applied by a particular mind, aliveness as such does not imply validity. Validity is the correspondence of an idea with reality (insofar as reality is known), and this depends on the concepts and conceptual relationships the idea consists of, not how a mind holds and applies it. To add to this, notice that we can speak of ideas as being inert in one mind and active in another, which makes it even clearer that aliveness has nothing to do with validity.
+
+Now, can a false idea be alive? Consider the idea that one group of people is naturally/inherently inferior to one's own group. This idea can be - as such ideas have been - extensively applied through discrimination (legal or social or interpersonal), suppression, and subjugation. Harken back to the era of colonialism, racially-enforced slavery (as with African slaves in the Americas), and modern-day ethno-nationalism (and the numerous conflicts, not to mention genocides, that arise from it), and I think you would agree that such an idea can be very alive and very invalid at the same time.
+
+Some other alive false ideas across history:
+
+- Galen's theory of the body's humours
+- The notions about "hysteria" in women
+- Demonic possession and exorcism
+- Notions of a punitive/rewarding afterlife
+    > Martyrs and suicide bombers come to mind.
+
+Hence, before bring an idea to life, try bringing it to scrutiny.

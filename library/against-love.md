@@ -1,5 +1,7 @@
 <h1>Against Love</h1>
 
+> The conclusions of this essay are provisional and must be revised.
+
 ---
 
 > **Inspiration**: [*"Love" is the Ultimate System Exploit*, @maledicta](https://www.youtube.com/watch?v=J_WsdgL3qcA)
