@@ -4,7 +4,7 @@
 
 | Previous | Next |
 | --- | --- |
-| [felt-states-as-data-and-register.md](./felt-states-as-data-and-register.md) | [](./) |
+| [felt-states-as-data-and-register.md](./felt-states-as-data-and-register.md) | [worth-applied-to-the-self.md](./worth-applied-to-the-self.md) |
 
 > **Preliminary form**: ["Virtue & Internalised Premises", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) (source essay)
 

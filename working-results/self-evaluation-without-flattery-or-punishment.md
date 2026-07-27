@@ -2,6 +2,10 @@
 
 <h1>Self-Evaluation without Flattery or Punishment</h1>
 
+| Previous | Next |
+| --- | --- |
+| [worth-applied-to-the-self.md](./worth-applied-to-the-self.md) | - |
+
 > **Preliminary form**: Combination of:
 >
 > - ["Honour", `library/lifeblood-essays.odt`](../library/lifeblood-essays.odt) (source essay 1)
