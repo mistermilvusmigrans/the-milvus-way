@@ -9,10 +9,10 @@ Breathe, move (e.g. exercise), sing a poem.
 
 See the tie between body and mind, intent and act.
 
-# No ontological split between soul/body, self/world... <br> *Yet, each is distinct, integrated but not merged*
+# 2. No ontological split between soul/body, self/world... <br> *Yet, each is distinct, integrated but not merged*
 Observe the world around you and how it touches your senses.
 
-# Life-affirmation as a continual yet self-fulfilling goal
+# 3. Life-affirmation as a continual yet self-fulfilling goal
 Acknowledge that every breath you take...
 
 - alive in the moment
