@@ -1,5 +1,7 @@
 <h1>Look</h1>
 
+> **Valuable context**: [library/living-ideas-and-making-ideas-alive](../library/living-ideas-and-making-ideas-alive/)
+
 ---
 
 To look is to turn one's eyes in a particular direction, in order to pay attention to somebody/something. This is the first and most essential act of a conscious being qua conscious being. Conceptualisation, contextualisation, and generalisation, backed by organising, framing, systematising... all these, without exception, emerge from the act of looking.
@@ -9,6 +11,8 @@ Now, the facts of consciousness should not be ignored. One fact is that any cons
 This fact does not invalidate the act of looking. The ideal version of looking is not a blank-slate gaze, but an active awareness that, throughout its processing and framing and reframing, holds on to the idea that reality has the last word. Furthermore, the ideal version of looking is not indiscriminate, and this is because of yet another key fact of consciousness: consciousness is finite in its capacity. It is with this finite capacity that one must pursue one's values, and therefore, to commit to engagement after engagement without reference to one's values is to load the mind with details one has - to one's knowledge - no use for, while taking up the time and space needed for those details that - to one's knowledge - are useful for one's pursuits.
 
 Let us speak of discrimination, here, because this is important. To let in the facts of reality is not to be indiscriminate in and of itself, because that is the basic input one needs. The effort lies in processing, framing or reframing it as per one's best judgement, and without a basis for this - either in knowledge or in values - such effort is bound to burn one's reserves more than fuel one's pursuits.
+
+---
 
 Hence, it is crucial for us to:
 
