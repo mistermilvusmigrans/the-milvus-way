@@ -2,6 +2,10 @@
 
 <h1>Worth Applied to the Self</h1>
 
+| Previous | Next |
+| --- | --- |
+| [internalised-premises-and-the-responsibility-to-examine.md](./internalised-premises-and-the-responsibility-to-examine.md) | [self-evaluation-without-flattery-or-punishment.md](./self-evaluation-without-flattery-or-punishment.md) |
+
 > **Preliminary form**: Combination of:
 >
 > - ["Life as a Volitional Being", "The Nature of Life", Ethics, Philosophy, mistermilvusmigrans.github.io](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html) (source essay 1)

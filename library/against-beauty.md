@@ -1,5 +1,7 @@
 <h1>Against Beauty</h1>
 
+> The conclusions of this essay are provisional and must be revised.
+
 ---
 
 In "Beauty is Downstream of Love" ([library/lifeblood-essays.odt](./lifeblood-essays.odt)), I defined beauty as follows:

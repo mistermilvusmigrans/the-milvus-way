@@ -6,3 +6,4 @@
 - [maitreyi-and-minerva.md](./maitreyi-and-minerva.md)
 - [against-beauty.md](./against-beauty.md)
 - [against-love.md](./against-love.md)
+- [living-ideas-and-making-ideas-alive](./living-ideas-and-making-ideas-alive/)
